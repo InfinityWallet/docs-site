@@ -150,7 +150,6 @@ nav:
     - Wallet:
       - Binance Chain Extension Wallet API: smart-chain/wallet/wallet_api.md
       - Math Wallet Cross-chain Transfer Tool: http://blog.mathwallet.org/?p=2052
-      - Infinity Wallet Desktop: https://infinitywallet.io/
     - BUIDL Program: https://www.binance.com/en/blog/421499824684900972/Bridging-DeFi-and-CeFi-Introducing-a-$100M-Support-Fund-for-DeFi-Projects-on-Binance-Smart-Chain
   - BC Developers:
     - Binance Chain Fullnode:
